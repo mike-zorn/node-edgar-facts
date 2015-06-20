@@ -14,7 +14,7 @@ var facts = [
   'Edgar prefers looking to watching',
   'Despite popular belief, Edgar was not in the movie Men in Black',
   'Edgar is half pig, half gremlin',
-  'Edgar is a loving uncle to 500 worms',
+  'Edgar is a loving uncle to 500 worms, may they rest in peace',
   'Edgar is a dingus',
   'Edgar does not enjoy walking on grates',
   'Edgar is ambivalent about riding elevators, versus taking the stairs',
@@ -24,7 +24,9 @@ var facts = [
   'If edgar were a human, he would look like Idris Elba or Whoopie Goldberg',
   'Edgar is not suject to the protestant work ethic and therefore does not participate in capitalism',
   'Edgar would be honored to attend your wedding',
-  'Edgar runs with the big dogs'
+  'Edgar runs with the big dogs',
+  'Edgar contests the fact that he is a dingus',
+  'Edgar has a sister named Annabelle, but she is dead to him'
 ]
 
 module.exports = function () {
