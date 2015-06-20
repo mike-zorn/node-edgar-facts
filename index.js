@@ -22,7 +22,9 @@ var facts = [
   'According to Public Health Expert, Rachel Bergstein, Edgar is a special little dude',
   'Edgar is a prince',
   'If edgar were a human, he would look like Idris Elba or Whoopie Goldberg',
-  'Edgar makes no contribution to society in the form of capitalist production, as he is not suject to the protestant work ethic'
+  'Edgar is not suject to the protestant work ethic and therefore does not participate in capitalism',
+  'Edgar would be honored to attend your wedding',
+  'Edgar runs with the big dogs'
 ]
 
 module.exports = function () {
