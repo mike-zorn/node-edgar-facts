@@ -9,7 +9,7 @@ var facts = [
   'Edgar is the perfect shape',
   'Edgar\'s butt-hole is flirty',
   'Edgar witches from 5 p.m. to 9 p.m. every night',
-  'Edgar has the teeth of a much younger dog',
+  'Edgar has the teeth of a much younger dog, because he stole them',
   'If you try to trim Edgar\'s toenails, he will end you',
   'Edgar prefers looking to watching',
   'Despite popular belief, Edgar was not in the movie Men in Black',
@@ -18,7 +18,11 @@ var facts = [
   'Edgar is a dingus',
   'Edgar does not enjoy walking on grates',
   'Edgar is ambivalent about riding elevators, versus taking the stairs',
-  'Edgar has no body image issues and does not care about yours'
+  'Edgar has no body image issues and refuses to entertain yours',
+  'According to Public Health Expert, Rachel Bergstein, Edgar is a special little dude',
+  'Edgar is a prince',
+  'If edgar were a human, he would look like Idris Elba or Whoopie Goldberg',
+  'Edgar makes no contribution to society in the form of capitalist production, as he is not suject to the protestant work ethic'
 ]
 
 module.exports = function () {
