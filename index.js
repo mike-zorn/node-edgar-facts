@@ -14,7 +14,11 @@ var facts = [
   'Edgar prefers looking to watching',
   'Despite popular belief, Edgar was not in the movie Men in Black',
   'Edgar is half pig, half gremlin',
-  'Edgar is a loving uncle to 500 worms'
+  'Edgar is a loving uncle to 500 worms',
+  'Edgar is a dingus',
+  'Edgar does not enjoy walking on grates',
+  'Edgar is ambivalent about riding elevators, versus taking the stairs',
+  'Edgar has no body image issues and does not care about yours'
 ]
 
 module.exports = function () {
