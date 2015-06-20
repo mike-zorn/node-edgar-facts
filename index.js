@@ -25,7 +25,8 @@ var facts = [
   'Edgar would be honored to attend your wedding',
   'Edgar runs with the big dogs',
   'Edgar contests the fact that he is a dingus',
-  'Edgar has a sister named Annabelle, but she is dead to him'
+  'Edgar has a sister named Annabelle, but she is dead to him',
+  'Edgar has not read Marx\'s Captial, but he has heard most of it on audiobook and thinks he gets the gist'
 ]
 
 module.exports = function () {
