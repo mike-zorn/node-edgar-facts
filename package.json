@@ -1,0 +1,31 @@
+{
+  "name": "edgar-facts",
+  "version": "1.0.0",
+  "description": "facts about @apechimp's dog, Edgar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apechimp/node-edgar-facts.git"
+  },
+  "keywords": [
+    "edgar",
+    "facts"
+  ],
+  "author": "Mike Atkins",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/apechimp/node-edgar-facts/issues"
+  },
+  "homepage": "https://github.com/apechimp/node-edgar-facts#readme",
+  "dependencies": {
+    "random-js": "^1.0.4"
+  },
+  "devDependencies": {
+    "is-string": "^1.0.4",
+    "standard": "^4.3.1",
+    "tape": "^4.0.0"
+  }
+}
