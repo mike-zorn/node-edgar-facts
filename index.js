@@ -26,7 +26,14 @@ var facts = [
   'Edgar runs with the big dogs',
   'Edgar contests the fact that he is a dingus',
   'Edgar has a sister named Annabelle, but she is dead to him',
-  'Edgar has not read Marx\'s Captial, but he has heard most of it on audiobook and thinks he gets the gist'
+  'Edgar has not read Marx\'s Captial, but he has heard most of it on audiobook and thinks he gets the gist',
+  'Do you want to learn how to swim but are afraid of water? Edgar\'s swimming school is for you',
+  'Every frisbee in the world belongs to Edgar',
+  'Edgar is extremely respectful',
+  'Nothing scares Edgar',
+  'Edgar does not understand birds and has a number of questions for the species as a whole',
+  'Edgar does not buy into the concept of overdressing. He wears his finest tuxedo to all formal occasions',
+  'Edgar does not like to be brushed, as he believes his coat looks best when slightly tousled'
 ]
 
 module.exports = function () {
