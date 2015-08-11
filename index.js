@@ -30,10 +30,12 @@ var facts = [
   'Do you want to learn how to swim but are afraid of water? Edgar\'s swimming school is for you',
   'Every frisbee in the world belongs to Edgar',
   'Edgar is extremely respectful',
-  'Nothing scares Edgar',
+  'Nothing scares Edgar, except for fire drills',
   'Edgar does not understand birds and has a number of questions for the species as a whole',
   'Edgar does not buy into the concept of overdressing. He wears his finest tuxedo to all formal occasions',
-  'Edgar does not like to be brushed, as he believes his coat looks best when slightly tousled'
+  'Edgar does not like to be brushed, as he believes his coat looks best when slightly tousled',
+  'Edgar does not understand why he is not currently sitting on your lap',
+  'Edgar would love to attend your barre fitness class'
 ]
 
 module.exports = function () {
