@@ -7,7 +7,6 @@ var facts = [
   'Edgar is the most beautiful creature in the universe',
   'Edgar\'s favorite color is purple, because it signifies royalty',
   'Edgar is the perfect shape',
-  'Edgar\'s butt-hole is flirty',
   'Edgar witches from 5 p.m. to 9 p.m. every night',
   'Edgar has the teeth of a much younger dog, because he stole them',
   'If you try to trim Edgar\'s toenails, he will end you',
