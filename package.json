@@ -1,6 +1,6 @@
 {
   "name": "edgar-facts",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "facts about @apechimp's dog, Edgar.",
   "main": "index.js",
   "scripts": {
