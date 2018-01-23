@@ -37,6 +37,8 @@ var facts = [
   'Edgar would love to attend your barre fitness class',
   'Edgar is offended',
   'Edgar is a prince among men and animals alike'
+  'Edgar beat cancer'
+  'Edgar has been described as machiavellian, due to his calculating nature'
 ]
 
 module.exports = function () {
