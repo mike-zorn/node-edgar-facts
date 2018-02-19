@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "is-string": "^1.0.4",
-    "standard": "^10.0.2",
+    "standard": "^11.0.0",
     "tape": "^4.0.0"
   }
 }
