@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/apechimp/node-edgar-facts#readme",
   "dependencies": {
-    "random-js": "^1.0.4"
+    "random-js": "^2.0.0"
   },
   "devDependencies": {
     "is-string": "^1.0.4",
