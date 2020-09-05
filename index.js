@@ -38,7 +38,12 @@ var facts = [
   'Edgar is offended',
   'Edgar is a prince among men and animals alike',
   'Edgar beat cancer',
-  'Edgar has been described as machiavellian, due to his calculating nature'
+  'Edgar has been described as machiavellian, due to his calculating nature',
+  "Due to the aerodynamic properties of Edgar's face, he is able to complete a simultaneous smell and sight inspection at close range",
+  'Edgar is currently embroiled in a heroic struggle with a squirrel for sovereignty over the backyard',
+  'Cats offend Edgar',
+  "Edgar's preferred resting places is immediately on top of freshly folded laundry",
+  "Edgar sleeps 18 hours a day, but as soon as he's awake, he is on high alert."
 ]
 
 module.exports = function () {
